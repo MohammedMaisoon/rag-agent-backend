@@ -5,6 +5,7 @@ Zero-cost Agentic RAG system built with self-hosted n8n, OpenRouter, Qdrant vect
 An autonomous Retrieval-Augmented Generation (RAG) assistant built using a completely free, open-source, and self-hosted AI architecture. This project uses **n8n** as the orchestrator to dynamically query custom vector embeddings from **Qdrant** using **Hugging Face** inference, and reasons over answers via **OpenRouter**.
 
 ---
+n8n agentic-rag qdrant openrouter huggingface langchain ai-agent vector-database
 
 ## 🏗️ Architecture Overview
 
